@@ -151,7 +151,7 @@ README.md
 
 - 💼 Full Stack Developer
 - 🌐 GitHub: https://github.com/debabratadinda
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+
 
 ---
 
